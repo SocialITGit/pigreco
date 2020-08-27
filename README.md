@@ -1,0 +1,2 @@
+# pigreco
+Pigreco releases manager
